@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Frameworks ,courses etc.**
 
-- 👨‍💻 All of my projects are available at [myprojecht.com](myprojecht.com)
+- 👨‍💻 All of my projects are available at <a href="https://www.muntazer.me" target="blank">www.muntazer.me</a>
 
 - 💬 Ask me about **React.js, Laravel ,Javascript**
 
