@@ -12,12 +12,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntazar77" alt="muntazar77" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
-
-
-- 📫 How to reach me **ataarataar77@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
